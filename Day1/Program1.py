@@ -1,0 +1,1 @@
+print("Hi Welcome to python GenAI batch ...!");
